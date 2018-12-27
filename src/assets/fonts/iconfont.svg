@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="play_fill" unicode="&#59159;" d="M755.552 400.64l-384 296.672a31.936 31.936 0 0 1-51.552-25.28v-593.504a32 32 0 0 1 51.552-25.28l384 296.704a32 32 0 0 1 0 50.656"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="suspend" unicode="&#59182;" d="M352 704a32 32 0 0 1-32-32v-608.832a32 32 0 1 1 64 0V672a32 32 0 0 1-32 32M672 704a32 32 0 0 1-32-32v-608.832a32 32 0 1 1 64 0V672a32 32 0 0 1-32 32"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
